@@ -10,6 +10,11 @@ nav:
     - About/index.md
   - Other:
     - Others/mkdocs配置.md
+    - Others/开源项目提交步骤.md
+    - Others/DVC介绍.md
+    - Others/QuiltData介绍.md
+  - Project:
+    - Project/index.md
 
 # [UI]
 ## [top]
