@@ -33,6 +33,6 @@ fn main() {
 
 
 
-# Reference
+## Reference
 
 [1] https://github.com/console-rs/indicatif

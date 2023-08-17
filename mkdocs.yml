@@ -7,17 +7,13 @@ site_description: Soni
 # [Navigtion]
 nav:
   - Home: index.html
-  - About:
-    - About/index.md
-  - Other:
-    - Others/mkdocs配置.md
-    - Others/开源项目提交步骤.md
-    - Others/DVC介绍.md
-    - Others/QuiltData介绍.md
   - Project:
     - Project/index.md
-  - Rust:
-    - Rust/indicatif.md
+    - Project/Rust.md
+    - Project/JavaWeb.md
+    - Project/Others.md
+
+
 
 # [UI]
 ## [top]
